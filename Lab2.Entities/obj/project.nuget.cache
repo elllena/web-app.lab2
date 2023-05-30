@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QJUAuFfVPIE6xm/pirilC8r8/GzazgbIRoFzP0B0gsiLFEpTprvWy7826TxLa8gs8cgkcOgrt9htGcNWXcH/qQ==",
+  "success": true,
+  "projectFilePath": "d:\\Labs\\Lab2\\Lab2.Entities\\Lab2.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lena\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Lena\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Lena\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
